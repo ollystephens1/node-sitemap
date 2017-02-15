@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing some node stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olly Stephens",
+  "license": "ISC",
+  "dependencies": {
+    "sitemap-generator": "^5.0.1"
+  }
+}
